@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0-*",
+  "description": "ConsoleApp1 Console Application",
+  "authors": [ "KBasu" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Microsoft.CSharp": "4.0.1-beta-23516",
+    "System.Collections": "4.0.11-beta-23516",
+    "System.Console": "4.0.0-beta-23516",
+    "System.Linq": "4.0.1-beta-23516",
+    "System.Threading": "4.0.11-beta-23516",
+    "Newtonsoft.Json": "8.0.3",
+    "System.Xml.XmlDocument": "4.0.1-beta-23516",
+    "System.Xml.XmlSerializer": "4.0.11-beta-23516",
+    "System.Linq.Expressions": "4.0.11-beta-23516"
+  },
+
+  "commands": {
+    "ConsoleApp1": "ConsoleApp1"
+  },
+
+  "frameworks": {
+    "dnx46": {
+      "dependencies": {       
+      }
+    }
+  }
+}
